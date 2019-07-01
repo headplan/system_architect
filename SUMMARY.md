@@ -24,7 +24,9 @@
   * 单服务器高性能模式:Reactor与Proactor
   * 高性能负载均衡:分类及架构
   * [高性能负载均衡:算法](gao-xing-neng-jia-gou-mo-shi/gao-xing-neng-fu-zai-jun-88613a-suan-fa.md)
-* 高可用架构模式
+* [高可用架构模式](gao-ke-yong-jia-gou-mo-shi.md)
+  * CAP理论
+  * CPA细节
 * 可扩展架构模式
 * 架构实战
 * [架构文章](chapter1.md)
