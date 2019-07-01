@@ -42,7 +42,7 @@
   * 微服务架构最佳实践:方法篇
   * 微服务架构最佳实践:基础设施篇
   * 微内核架构详解
-* 架构实战
+* [架构实战](jia-gou-shi-zhan.md)
 * [架构文章](chapter1.md)
   * [负载均衡](chapter1/fu-zai-jun-heng.md)
   * [服务层相关文章](fu-wu-ceng-xiang-guan-wen-zhang.md)
