@@ -2,7 +2,28 @@
 
 * [系统架构](README.md)
 * [基础架构](ji-chu-jia-gou.md)
-* 高性能架构模式
+  * 架构到底是指什么
+  * 架构设计的历史背景
+  * 架构设计的目的
+  * 复杂度来源:高性能
+  * 复杂度来源:高可用
+  * 复杂度来源:可扩展性
+  * 复杂度来源:低成本,安全,规模
+  * 架构设计三原则
+  * 架构设计原则案例
+  * 架构设计流程:识别复杂度
+  * 架构设计流程:设计备选方案
+  * 架构设计流程:评估和选择备选方案
+  * 架构设计流程:详细方案设计
+* [高性能架构模式](gao-xing-neng-jia-gou-mo-shi.md)
+  * 高性能数据库集群:读写分离
+  * 高性能数据库集群:分库分表
+  * 高性能NoSQL
+  * 高性能缓存架构
+  * [单服务器高性能模式:PPC与TPC](gao-xing-neng-jia-gou-mo-shi/dan-fu-wu-qi-gao-xing-neng-mo-5f0f3a-ppc-yu-tpc.md)
+  * 单服务器高性能模式:Reactor与Proactor
+  * 高性能负载均衡:分类及架构
+  * [高性能负载均衡:算法](gao-xing-neng-jia-gou-mo-shi/gao-xing-neng-fu-zai-jun-88613a-suan-fa.md)
 * 高可用架构模式
 * 可扩展架构模式
 * 架构实战
