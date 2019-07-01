@@ -27,6 +27,14 @@
 * [高可用架构模式](gao-ke-yong-jia-gou-mo-shi.md)
   * CAP理论
   * CPA细节
+  * [FMEA方法 , 排除架构可用性隐患的利器](gao-ke-yong-jia-gou-mo-shi/fmeafang-fa-pai-chu-jia-gou-ke-yong-xing-yin-huan-de-li-qi.md)
+  * 高可用存储架构:双机架构
+  * 高可用存储架构:集群和分区
+  * 如何设计计算高可用架构
+  * 业务高可用的保障:异地多活架构
+  * 异地多活设计4大技巧
+  * 异地多活设计4步走
+  * 如何应对接口级的故障
 * 可扩展架构模式
 * 架构实战
 * [架构文章](chapter1.md)
