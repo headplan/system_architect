@@ -79,3 +79,9 @@
 
 上面这些"架构" , 都是"学生管理系统"正确的架构 , 只是从不同的角度来分解而已 , 这也是IBM的RUP将软件架构视图分为著名的"4+1视图"的原因 . 
 
+> 扩展阅读
+>
+> [https://blog.csdn.net/apanious/article/details/51011946](https://blog.csdn.net/apanious/article/details/51011946)
+
+
+
