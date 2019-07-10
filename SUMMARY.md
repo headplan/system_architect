@@ -7,7 +7,7 @@
   * [架构设计的历史背景](ji-chu-jia-gou/jia-gou-she-ji-de-li-shi-bei-jing.md)
   * [架构设计的目的](ji-chu-jia-gou/jia-gou-she-ji-de-mu-de.md)
   * [复杂度来源:高性能](ji-chu-jia-gou/fu-za-du-lai-6e903a-gao-xing-neng.md)
-  * 复杂度来源:高可用
+  * [复杂度来源:高可用](ji-chu-jia-gou/fu-za-du-lai-6e903a-gao-ke-yong.md)
   * 复杂度来源:可扩展性
   * 复杂度来源:低成本,安全,规模
   * 架构设计三原则
