@@ -6,7 +6,7 @@
     * [4+1视图软件架构设计](ji-chu-jia-gou/jia-gou-dao-di-shi-zhi-shi-yao/4+1shi-tu-ruan-jian-jia-gou-she-ji.md)
   * [架构设计的历史背景](ji-chu-jia-gou/jia-gou-she-ji-de-li-shi-bei-jing.md)
   * [架构设计的目的](ji-chu-jia-gou/jia-gou-she-ji-de-mu-de.md)
-  * 复杂度来源:高性能
+  * [复杂度来源:高性能](ji-chu-jia-gou/fu-za-du-lai-6e903a-gao-xing-neng.md)
   * 复杂度来源:高可用
   * 复杂度来源:可扩展性
   * 复杂度来源:低成本,安全,规模
