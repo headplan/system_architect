@@ -20,7 +20,23 @@
 
 #### 应对变化
 
-即使预测很准确 , 如果方案不合适 , 则系统扩展一样很麻烦 . 
+即使预测很准确 , 如果方案不合适 , 则系统扩展一样很麻烦 .
 
 ![](/assets/kekuozhanxingbianhua.png)
+
+第一种应对变化的常见方案是**将"变化"封装在一个"变化层" , 将不变的部分封装在一个独立的"稳定层" . **
+
+无论是变化层依赖稳定层 , 还是稳定层依赖变化层都是可以的 , 需要根据具体业务情况来设计 . 
+
+例如 , 如果系统需要支持XML、JSON、ProtocolBuffer三种接入方式 : 
+
+![](/assets/sanzhongjierufangshi.png)
+
+例如 , 如果系统需要支持MySQL、Oracle、DB2数据库存储 : 
+
+![](/assets/dbcengbianhua.png)
+
+
+
+
 
