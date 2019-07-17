@@ -9,7 +9,7 @@
   * [复杂度来源:高性能](ji-chu-jia-gou/fu-za-du-lai-6e903a-gao-xing-neng.md)
   * [复杂度来源:高可用](ji-chu-jia-gou/fu-za-du-lai-6e903a-gao-ke-yong.md)
   * [复杂度来源:可扩展性](ji-chu-jia-gou/fu-za-du-lai-6e903a-ke-kuo-zhan-xing.md)
-  * 复杂度来源:低成本,安全,规模
+  * [复杂度来源:低成本,安全,规模](ji-chu-jia-gou/fu-za-du-lai-6e903a-di-cheng-672c2c-an-51682c-gui-mo.md)
   * 架构设计三原则
   * 架构设计原则案例
   * 架构设计流程:识别复杂度
