@@ -52,19 +52,13 @@
 
 ![](/assets/zhuangshizhemoshi.png)
 
+图中的 Component 和 Decorator 就是抽象出来的规则 :
 
+* Component 和 Decorator 类
+* Decorator 类继承 Component 类
+* Decorator 类聚合了 Component 类
 
+规则抽象处理就基本固定了 , 不能轻易修改 .
 
-
-图中的 Component 和 Decorator 就是抽象出来的规则 : 
-
-1.Component 和 Decorator 类
-
-2.Decorator 类继承 Component 类
-
-3.Decorator 类聚合了 Component 类
-
-规则抽象处理就基本固定了 , 不能轻易修改 . 
-
-装饰者模式相比传统的继承来实现功能 , 确实灵活很多 . 例如 , 设计模式中装饰者模式的样例"TextView"类的的实现 , 用了装饰者之后 , 能够灵活地给 TextView 增加额外更多功能 , 比如可以增加边框、滚动条、背景图片等 , 这些功能上的组合不影响规则 , 只需要按照规则实现即可 . 
+装饰者模式相比传统的继承来实现功能 , 确实灵活很多 . 例如 , 设计模式中装饰者模式的样例"TextView"类的的实现 , 用了装饰者之后 , 能够灵活地给 TextView 增加额外更多功能 , 比如可以增加边框、滚动条、背景图片等 , 这些功能上的组合不影响规则 , 只需要按照规则实现即可 .
 
